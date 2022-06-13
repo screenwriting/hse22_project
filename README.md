@@ -55,3 +55,5 @@ ZH-score:
 Расположение:
 ![image](https://user-images.githubusercontent.com/86132283/173431171-25304486-0c69-4384-b8f6-823f9088df4a.png)
 
+**Распределение:**
+![image](https://user-images.githubusercontent.com/86132283/173431500-36d944cf-878d-4fb5-9829-aa3f30dca720.png)
