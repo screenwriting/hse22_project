@@ -94,7 +94,7 @@ ZH-score:
 ![image](https://user-images.githubusercontent.com/86132283/173437184-c772bf45-78f0-4eef-ab0d-bb533a2a9837.png)
 ![image](https://user-images.githubusercontent.com/86132283/173437194-4cb2e4e4-002d-4cf2-88e1-cda1c32e5390.png)
 
-# Белковые выравнивания muscle находятся в папке data
+# Белковые выравнивания muscle находятся в папке [data](https://github.com/screenwriting/hse22_project/tree/main/data/%D0%92%D1%8B%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
 # Визуализация расположения участков Z-DNA для выбранных кластеров
 
