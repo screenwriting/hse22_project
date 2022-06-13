@@ -7,3 +7,7 @@
 | 3 | Legionella geestiana    |  2,666,749  |    50,8425 | 2 | 2 | 2 | 2395 | 0.911431 | 2395 | 0.911431 | 60873 | 546412 | 25049 | 248224 |
 | 4 | Legionella israelensis |  3,111,640  |    39,7896 | 2 | 2 | 2 | 2806 | 0.878786 | 2806 | 0.878786 | 64967 | 574508 | 2327 | 22570 |
 | 5 | Legionella pneumophila |  3,504,074  |    38,3271 | 3 | 3 | 3 | 3137 | 0.889006 | 3137 | 0.889006 | 73576 | 650556 | 2051 | 19686 |
+
+# Предсказание Z-DNA 
+Legionella antarctica: 
+![image](https://user-images.githubusercontent.com/86132283/173429757-cca4fe9c-fe4b-4528-8ac9-29c5adca3c67.png)
