@@ -94,3 +94,17 @@ ZH-score:
 ![image](https://user-images.githubusercontent.com/86132283/173437184-c772bf45-78f0-4eef-ab0d-bb533a2a9837.png)
 ![image](https://user-images.githubusercontent.com/86132283/173437194-4cb2e4e4-002d-4cf2-88e1-cda1c32e5390.png)
 
+# Белковые выравнивания muscle находятся в папке data
+
+# Визуализация расположения участков Z-DNA для выбранных кластеров
+
+![image](https://user-images.githubusercontent.com/86132283/173438270-1551f005-43f3-478e-916a-78d77ea32c8b.png)
+![image](https://user-images.githubusercontent.com/86132283/173438280-9c5d75bf-3048-437e-94db-8ef275ec052e.png)
+![image](https://user-images.githubusercontent.com/86132283/173438289-0c9c9222-12de-4564-b161-ed7bfbd14e4a.png)
+![image](https://user-images.githubusercontent.com/86132283/173438293-088ec733-7d51-46f0-8457-d3175205ad63.png)
+![image](https://user-images.githubusercontent.com/86132283/173438306-a11ace68-9c4b-4864-863e-b508c777ea22.png)
+![image](https://user-images.githubusercontent.com/86132283/173438359-149beb25-68dd-4045-b6fa-aa200f1322e8.png)
+![image](https://user-images.githubusercontent.com/86132283/173438369-81cebba7-1010-4130-acf3-d519ec8cd07a.png)
+![image](https://user-images.githubusercontent.com/86132283/173438376-b5d33c42-330c-41b8-a369-e3019de2a481.png)
+![image](https://user-images.githubusercontent.com/86132283/173438390-ed94c019-4d0d-4a06-89bc-035516ff6764.png)
+![image](https://user-images.githubusercontent.com/86132283/173438396-f31566db-5abd-4c09-8e50-e3fc26c1cd80.png)
