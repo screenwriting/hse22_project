@@ -59,6 +59,14 @@ ZH-score:
 
 ![image](https://user-images.githubusercontent.com/86132283/173431500-36d944cf-878d-4fb5-9829-aa3f30dca720.png)
 
+# Кластеры
+Всего **2761** кластеров
+
+Гистограмма входящих в кластер геномов:
+
+![image](https://user-images.githubusercontent.com/86132283/173434690-ffecc8c2-23df-4635-a656-96b9ff462227.png)
+
+**Отобранные 10 кластеров:**
 | Species |	Genes	| mean ZH-Score |	Legionella antarctica |	Legionella clemsonensis	| Legionella geestiana |	Legionella israelensis |	Legionella pneumophila |
 |-|-|-|-|-|-|-|-|
 | 0 |	5 |	5 |	2.732486e+06 |	WP_173238279.1 |	WP_094092374.1 |	WP_028386198.1 | 	WP_143868713.1 |	WP_015443901.1 |
