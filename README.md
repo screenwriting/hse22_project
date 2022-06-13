@@ -81,5 +81,16 @@ ZH-score:
 | 9 |	1800 | 5 |	5 |	2.585148e+06 |	WP_226905482.1 |	WP_094091533.1 |	WP_028386587.1 |	WP_143868924.1 |	WP_015444133.1 |
 | 10 |	1799 | 5 |	5 |	2.581400e+06|	WP_226905481.1 | WP_157698233.1 |	WP_035902448.1 |	WP_244946889.1 |	WP_015444136.1 |
 
-Распределение, относительно генов:
+**Расположение**, относительно генов:
+
+![image](https://user-images.githubusercontent.com/86132283/173437020-42d18dd5-ad51-4ec9-96ca-515facae2cc3.png)
+![image](https://user-images.githubusercontent.com/86132283/173437042-68229a58-6106-4ebf-b228-011689392023.png)
+![image](https://user-images.githubusercontent.com/86132283/173437071-67c71118-29bf-49c9-b90f-40be2d93295c.png)
+![image](https://user-images.githubusercontent.com/86132283/173437103-43f465d4-bd63-4c05-8553-18c2e61553af.png)
+![image](https://user-images.githubusercontent.com/86132283/173437130-1ea2d768-fb10-43d7-a559-05a15d5fb39d.png)
+![image](https://user-images.githubusercontent.com/86132283/173437149-6ca2aa84-7782-4840-80d7-fd434e7cf25c.png)
+![image](https://user-images.githubusercontent.com/86132283/173437159-cb22de7a-71d2-49a3-b227-d1a1b87e4910.png)
+![image](https://user-images.githubusercontent.com/86132283/173437169-a07e9f10-a1e1-432c-a6bc-9cd3cd2d4b02.png)
+![image](https://user-images.githubusercontent.com/86132283/173437184-c772bf45-78f0-4eef-ab0d-bb533a2a9837.png)
+![image](https://user-images.githubusercontent.com/86132283/173437194-4cb2e4e4-002d-4cf2-88e1-cda1c32e5390.png)
 
